@@ -1,0 +1,312 @@
+{
+    "ui": {
+        "welcome to spyfall": "Sveicināti Spyfall",
+        "new game": "Jauna Spēle",
+        "join game": "Pievienoties Spēlei",
+        "waiting for players": "Gaida spēlētājus...",
+        "access code": "Pieejas kods",
+        "join my spyfall game": "Pievienojies manai Spyfall spēlei!",
+        "start game": "Sākt Spēli",
+        "leave game": "Iziet no Spēles",
+        "show hide": "atsegt/aizsegt",
+        "you are the spy": "Tu esi spiegs!",
+        "you are not the spy": "Tu <strong>nēesi</strong> spiegs!",
+        "the location": "Vieta",
+        "your role": "Tava loma",
+        "players": "Spēlētāji",
+        "first": "1.",
+        "location reference": "Vietu Saraksts",
+        "end game": "Beigt Spēli",
+        "enter your name": "Tavs vārds",
+        "create game": "Izveidot",
+        "back": "Atpakaļ",
+        "enter an access code": "Pieejas kods",
+        "invalid access code": "Atvainojiet, bet neviena spēle ar šādu kodu netika atrasta!",
+        "join": "Pievienoties",
+        "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>Spyfall</a> izveidoja Alexandr Ushan, publicēja <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
+    },
+    "locations": {
+        "airplane": "Lidmašīna",
+        "bank": "Banka",
+        "beach": "Pludmale",
+        "cathedral": "Katedrāle",
+        "circus tent": "Cirka Telts",
+        "corporate party": "Korporatīvs Pasākums",
+        "crusader army": "Krustnešu Armija",
+        "casino": "Kazino",
+        "day spa": "Spa",
+        "embassy": "Vēstniecība",
+        "hospital": "Slimnīca",
+        "hotel": "Viesnīca",
+        "military base": "Militārā Bāze",
+        "movie studio": "Filmu Studija",
+        "ocean liner": "Kruīza Kuģis",
+        "passenger train": "Pasažieru Vilciens",
+        "pirate ship": "Pirātu Kuģis",
+        "polar station": "Polārā Stacija",
+        "police station": "Policijas Iecirknis",
+        "restaurant": "Restorāns",
+        "school": "Skola",
+        "service station": "Autoserviss",
+        "space station": "Kosmosa Stacija",
+        "submarine": "Zemūdene",
+        "supermarket": "Lielveikals",
+        "theater": "Teātris",
+        "university": "Universitāte",
+        "world war ii squad": "2. Pasaules Kara Armija",
+        "roles": {
+            "airplane": {
+                "first class passenger": "Pirmās Klases Pasažieris",
+                "air marshall": "Gaisa Maršals",
+                "mechanic": "Mehāniķis",
+                "air hostess": "Stjuarte",
+                "copilot": "Līdzpilots",
+                "captain": "Kapteinis",
+                "economy class passenger": "Ekonomiskās Klases Pasažieris"
+            },
+            "bank": {
+                "armored car driver": "Bruņumašīnas Vadītājs",
+                "manager": "Menedžeris",
+                "consultant": "Konsultants",
+                "robber": "Laupītājs",
+                "security guard": "Apsargs",
+                "teller": "Kasieris",
+                "customer": "Klients"
+            },
+            "beach": {
+                "beach waitress": "Pludmales Viesmīle",
+                "kite surfer": "Kite Sērfotājs",
+                "lifeguard": "Glābējs",
+                "thief": "Zaglis",
+                "beach photographer": "Pludmales Fotogrāfs",
+                "ice cream truck driver": "Saldējuma Tirgotājs",
+                "beach goer": "Pludmales Apmeklētājs"
+            },
+            "cathedral": {
+                "priest": "Priesteris",
+                "beggar": "Ubags",
+                "sinner": "Grēcinieks",
+                "tourist": "Tūrists",
+                "sponsor": "Sponsors",
+                "chorister": "Korists",
+                "parishioner": "Draudzes Loceklis"
+            },
+            "circus tent": {
+                "acrobat": "Akrobāts",
+                "animal trainer": "Dzīvnieku Dresētājs",
+                "magician": "Burvis",
+                "fire eater": "Uguns Rijējs",
+                "clown": "Klauns",
+                "juggler": "Žonglieris",
+                "visitor": "Apmeklētājs"
+            },
+            "corporate party": {
+                "entertainer": "Izklaidētājs",
+                "manager": "Menedžeris",
+                "unwanted guest": "Nevēlams Viesis",
+                "owner": "Īpašnieks",
+                "secretary": "Sekretāre",
+                "delivery boy": "Piegādes Puisis",
+                "accountant": "Grāmatvedis"
+            },
+            "crusader army": {
+                "monk": "Mūks",
+                "imprisoned saracen": "Ieslogots Saracēnis",
+                "servant": "Kalps",
+                "bishop": "Bīskaps",
+                "squire": "Ieroču Nesējs",
+                "archer": "Strēlnieks",
+                "knight": "Bruņinieks"
+            },
+            "casino": {
+                "bartender": "Bārmenis",
+                "head security guard": "Apsargs",
+                "bouncer": "Durvju Sargs",
+                "manager": "Menedžeris",
+                "hustler": "Bravūrīgs Apmeklētājs",
+                "dealer": "Dīleris",
+                "gambler": "Spēlētājs"
+            },
+            "day spa": {
+                "stylist": "Stilists",
+                "masseuse": "Masieris",
+                "manicurist": "Manikīra Meistars",
+                "makeup artist": "Grima Mākslinieks",
+                "dermatologist": "Dermatologs",
+                "beautician": "Kosmetologs",
+                "customer": "Klients"
+            },
+            "embassy": {
+                "security guard": "Apsargs",
+                "secretary": "Sekretāre",
+                "ambassador": "Vēstnieks",
+                "tourist": "Tūrists",
+                "refugee": "Bēglis",
+                "diplomat": "Diplomāts",
+                "government official": "Valdības Pārstāvis"
+            },
+            "hospital": {
+                "nurse": "Māsiņa",
+                "doctor": "Ārsts",
+                "anesthesiologist": "Anesteziologs",
+                "intern": "Praktikants",
+                "therapist": "Terapeits",
+                "surgeon": "Ķirurgs",
+                "patient": "Pacients"
+            },
+            "hotel": {
+                "doorman": "Šveicars",
+                "security guard": "Apsargs",
+                "manager": "Menedžeris",
+                "housekeeper": "Istabene",
+                "bartender": "Bārmenis",
+                "bellman": "Viesnīcas Kalpotājs",
+                "customer": "Klients"
+            },
+            "military base": {
+                "deserter": "Dezertieris",
+                "colonel": "Pulkvedis",
+                "medic": "Mediķis",
+                "sniper": "Snaiperis",
+                "officer": "Virsnieks",
+                "tank engineer": "Tanku Inženieris",
+                "soldier": "Karavīrs"
+            },
+            "movie studio": {
+                "stunt man": "Kaskadieris",
+                "sound engineer": "Skaņu Inženieris",
+                "camera man": "Kameras Operators",
+                "director": "Direktors",
+                "costume artist": "Kostīmu Mākslinieks",
+                "producer": "Režisors",
+                "actor": "Aktieris"
+            },
+            "ocean liner": {
+                "cook": "Pavārs",
+                "captain": "Kapteinis",
+                "bartender": "Bārmenis",
+                "musician": "Mūziķis",
+                "waiter": "Viesmīlis",
+                "mechanic": "Mehāniķis",
+                "rich passenger": "Bagāts Pasažieris"
+            },
+            "passenger train": {
+                "mechanic": "Mehāniķis",
+                "border patrol": "Muitnieks",
+                "train attendant": "Vilciena Apkalpotājs",
+                "restaurant chef": "Šefpavārs",
+                "train driver": "Vilciena Vadītājs",
+                "stoker": "Kurinātājs",
+                "passenger": "Pasažieris"
+            },
+            "pirate ship": {
+                "cook": "Pavārs",
+                "slave": "Vergs",
+                "cannoneer": "Lielgabalnieks",
+                "tied up prisoner": "Sasiets Ieslodzītais",
+                "cabin boy": "Junga",
+                "brave captain": "Kapteinis",
+                "sailor": "Matrozis"
+            },
+            "polar station": {
+                "medic": "Mediķis",
+                "expedition leader": "Ekspedīcijas Vadītājs",
+                "biologist": "Biologs",
+                "radioman": "Radio Operators",
+                "hydrologist": "Hidrologs",
+                "meteorologist": "Meteorologs",
+                "geologist": "Ģeologs"
+            },
+            "police station": {
+                "detective": "Detektīvs",
+                "lawyer": "Advokāts",
+                "journalist": "Žurnālists",
+                "criminalist": "Kriminologs",
+                "archivist": "Arhivārs",
+                "criminal": "Noziedznieks",
+                "patrol officer": "Patruļas Virsnieks"
+            },
+            "restaurant": {
+                "musician": "Mūziķis",
+                "bouncer": "Durvju Sargs",
+                "hostess": "Vietu Ierādītājs",
+                "head chef": "Šefpavārs",
+                "food critic": "Kritiķis",
+                "waiter": "Viesmīlis",
+                "customer": "Klients"
+            },
+            "school": {
+                "gym teacher": "Sporta Skolotājs",
+                "principal": "Direktors",
+                "security guard": "Apsargs",
+                "janitor": "Apkopējs",
+                "cafeteria lady": "Kafejnīcas Kasiere",
+                "maintenance man": "Remonta Meistars",
+                "student": "Skolnieks"
+            },
+            "service station": {
+                "manager": "Menedžeris",
+                "tire specialist": "Riepu Speciālists",
+                "biker": "Baikeris",
+                "car owner": "Mašīnas Īpašnieks",
+                "car wash operator": "Auto Mazgātājs",
+                "electrician": "Elektriķis",
+                "auto mechanic": "Auto Mehāniķis"
+            },
+            "space station": {
+                "engineer": "Inženieris",
+                "alien": "Citplanētietis",
+                "pilot": "Pilots",
+                "commander": "Komandieris",
+                "scientist": "Zinātnieks",
+                "doctor": "Ārsts",
+                "space tourist": "Kosmosa Tūrists"
+            },
+            "submarine": {
+                "cook": "Pavārs",
+                "commander": "Komandieris",
+                "sonar technician": "Sonāra Tehniķis",
+                "electronics technician": "Elektriķis",
+                "radioman": "Radio Operators",
+                "navigator": "Navigātors",
+                "sailor": "Jūrnieks"
+            },
+            "supermarket": {
+                "cashier": "Kasieris",
+                "butcher": "Miesnieks",
+                "janitor": "Apkopējs",
+                "security guard": "Apsargs",
+                "food sample demonstrator": "Ēdienu Paraugu Demonstrētājs",
+                "shelf stocker": "Plauktu Kārtotājs",
+                "customer": "Klients"
+            },
+            "theater": {
+                "coat check lady": "Garderobiste",
+                "prompter": "Suflieris",
+                "cashier": "Kasieris",
+                "director": "Direktors",
+                "actor": "Aktieris",
+                "crew man": "Skatuves Strādnieks",
+                "audience member": "Skatītājs"
+            },
+            "university": {
+                "graduate student": "Absolvents",
+                "professor": "Profesors",
+                "dean": "Dekāns",
+                "psychologist": "Psihologs",
+                "maintenance man": "Remonta Meistars",
+                "janitor": "Apkopējs",
+                "student": "Students"
+            },
+            "world war ii squad": {
+                "resistance fighter": "Partizāns",
+                "radioman": "Radio Operators",
+                "scout": "Izlūks",
+                "medic": "Mediķis",
+                "cook": "Pavārs",
+                "imprisoned nazi": "Ieslodzīts Nacists",
+                "soldier": "Karavīrs"
+            }   
+        }
+    }
+}
